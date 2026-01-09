@@ -2,9 +2,9 @@
 
 📄 **[View the Whitepaper (v0.1)](paper/GenOps_Runtime_Control_Planes_v0.1.pdf)**
 
-This whitepaper provides the operational foundation for GenOps AI practices. For a practical implementation, see the **GenOps-AI OpenTelemetry Extension**:
+This whitepaper provides the operational foundation for GenOps AI practices. For a practical implementation, see the GenOps-AI OpenTelemetry Extension: **[GenOps-AI Repository](https://github.com/KoshiHQ/GenOps-AI)**
 
-🔗 **[GenOps-AI Repository](https://github.com/KoshiHQ/GenOps-AI)**
+💬 **[Join Whitepaper Discussions](https://github.com/KoshiHQ/genops-whitepaper/discussions)**
 
 ## Overview
 
@@ -51,4 +51,4 @@ genops-whitepaper/
 
 ## Contributing
 
-This whitepaper is open for community input and collaboration. Future versions will incorporate feedback and expand on the foundational concepts presented in v0.1.
+This whitepaper is open for community input, [discussions](https://github.com/KoshiHQ/genops-whitepaper/discussions), and collaboration. Future versions will incorporate feedback and expand on the foundational concepts presented here.
