@@ -6,7 +6,7 @@
 
 This whitepaper provides the operational foundation outline for GenOps AI practices. 
 
-For code implementation, see the GenOps-AI OpenTelemetry Extension: **[GenOps-AI Repository](https://github.com/koshihq/genops-spec)**
+For code implementation, see the GenOps OpenTelemetry Extension: **[GenOps Repository](https://github.com/koshihq/genops-spec)**
 
 
 
